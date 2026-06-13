@@ -18,8 +18,8 @@ Self-directed study of MIT OCW 6.172. Notes, projects, and reflections documente
 
 | Unit | Topic | Status |
 |------|-------|--------|
-| 1 | Intro to Performance Engineering | 🔲 |
-| 2 | Bentley Rules | 🔲 |
+| 1 | Intro to Performance Engineering | ✅ |
+| 2 | Bentley Rules | ✅ |
 | 3 | Bit Hacks | 🔲 |
 | 4 | Assembly Language & Architecture | 🔲 |
 | 5 | C to Assembly | 🔲 |
